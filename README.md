@@ -1,7 +1,6 @@
-## Organizing among people
-- http://allourideas.org/ - Informal survey
+## Organizing among people:
 - To arrange a meeting:
-	- calendly.com - bilateral
+	- https://calendly.com - bilateral
 	- https://doodle.com/ - many people
 - https://onetimesecret.com/ - One time password sharing
 - https://cocalc.com/ - Collaborative coding
@@ -11,13 +10,14 @@
 - trello.com - easy to use free kanban board
 - https://help.github.com/en/github/managing-your-work-on-github/about-project-boards - kanban board for managing github issues
 
-## Online forms
-https://tally.so/
-
-## Online polls/quizes:
+## Online forms/polls/quizes:
+- http://allourideas.org/ - Informal wiki type survey
+- https://tally.so/
+- https://converj.net/ - survey questions where you can gather user reasons and they are summarised for you.
 - https://www.menti.com/
 - https://www.sli.do/
 - https://www.optimalworkshop.com/
+
 
 ## Automation:
 - www.ifttt.com - connect separate services in useful ways
