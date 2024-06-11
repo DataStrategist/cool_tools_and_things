@@ -76,6 +76,9 @@
 ## Applications
 - https://www.beapplied.com/
 
+## Contracts
+
+- Seedlegal and rocketlegal for generic contracts
 - ## Misc:
 - Proposal maker https://betterproposals.io/
 
